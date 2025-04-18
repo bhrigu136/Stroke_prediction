@@ -17,7 +17,7 @@ The main goal was to predict the chances of a stroke using these parameters.
 
 ---
 
-## 🛠️ Workflow Summary
+## Workflow Summary
 
 1. Data Preprocessing:
    - Handled missing values and encoded categorical features.
@@ -35,7 +35,7 @@ The main goal was to predict the chances of a stroke using these parameters.
 
 ---
 
-## 🔍 Key Learnings
+## Key Learnings
 
 - Practical use of EDA, data cleaning, and SMOTE.
 - Choosing the right evaluation metrics like AUC for imbalanced data.
